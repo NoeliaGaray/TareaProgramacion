@@ -1,0 +1,10 @@
+console.log("Como hacer panqueques");
+console.log("Agregar dos huevos en un bowl");
+console.log("Agregar tres cucharadas de harina");
+console.log("Agregar 250cm3 de agua");
+console.log("Mezclar e integrar todo");
+console.log("Precalentar una sartén con teflón");
+console.log("Agregar una cucharada de manteca");
+console.log("Esparcir la mezcla por toda la sartén");
+console.log("Dar vuelta el panqueque cuando los bordes se despeguen");
+console.log("Servir con relleno deseado");
